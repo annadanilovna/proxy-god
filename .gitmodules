@@ -1,0 +1,12 @@
+[submodule "res/lists/shiftytr-proxy-list.git"]
+	path = res/lists/shiftytr-proxy-list.git
+	url = git@github.com:ShiftyTR/Proxy-List.git
+[submodule "res/lists/chill117-proxy-lists.git"]
+	path = res/lists/chill117-proxy-lists.git
+	url = git@github.com:chill117/proxy-lists.git
+[submodule "res/lists/hookzof-socks5_list.git"]
+	path = res/lists/hookzof-socks5_list.git
+	url = git@github.com:hookzof/socks5_list.git
+[submodule "res/lists/jetkai-proxy-list.git"]
+	path = res/lists/jetkai-proxy-list.git
+	url = git@github.com:jetkai/proxy-list.git
